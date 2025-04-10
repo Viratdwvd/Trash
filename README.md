@@ -18,7 +18,8 @@ Client sErver
 
 https://chatgpt.com/c/67f740ff-1894-8006-b24d-0b5e5efaa61c
 
-
+LED COnnection 
+https://www.google.com/search?q=how+to+connect+raspberry+pi+to+lcd+display&oq=how+to+connect+raspberry+pi+to+LCD+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEKMjE0MDJqMGoxNagCCLACAfEFhw0DNKOwCmU&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:eb68ff26,vid:SXkMEPoh59U,st:0
 
 
 Check if it's detected
