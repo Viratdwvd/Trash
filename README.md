@@ -14,6 +14,13 @@ multimodel
 https://chatgpt.com/share/67f73b0f-a130-8006-8173-a59d9560024c
 
 
+Client sErver
+
+https://chatgpt.com/c/67f740ff-1894-8006-b24d-0b5e5efaa61c
+
+
+
+
 Check if it's detected
 
 Open the terminal and type:
